@@ -1,0 +1,22 @@
+{
+  "name": "loginsecurevault",
+  "version": "1.0.0",
+  "description": "Store manually website login username and password application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "cors": "^2.8.5",
+    "crypto-random-string": "^5.0.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.1",
+    "multer": "^1.4.5-lts.1"
+  }
+}
